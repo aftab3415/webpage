@@ -1,0 +1,63 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  text-align: center;
+  text-shadow: 2px 2px 5px blue;
+}
+
+#img1 {
+ position: relative;
+ height: 250px;
+ width: 250px;
+ left: 500px;
+}
+
+#img2 {
+  position: relative;
+   left:550px;
+   height:250px;
+   width:250px;
+   box-shadow:10px 10px 8px;
+}
+
+#img3 {
+   position:relative;
+   left:460px;
+   height:250px;
+   width:450px;
+   box-shadow:10px 10px 8px;
+}
+
+#img4 {
+   position:relative;
+   left:550px;
+   height:250px;
+   width:250px;
+   box-shadow:10px 10px 8px;
+}
+
+#aih2 {
+  font-family:garamond;
+}
+
+#aip {
+   font-family:verdana;
+}
+
+#mlh2 {
+   font-family:garamond;
+}
+
+#mlp {
+  font-family:verdana;
+}
+
+#dlh2 {
+  font-family:garamond;
+}
+
+#dlp {
+  font-family:verdana;
+}
